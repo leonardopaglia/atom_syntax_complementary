@@ -1,13 +1,13 @@
 {
-  "name": "leo-syntax",
+  "name": "atom_syntax_complementary",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Just my personal theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/leo-syntax",
+  "repository": "https://github.com/leonardopaglia/atom_syntax_complementary",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
