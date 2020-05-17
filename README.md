@@ -1,3 +1,5 @@
-# leo-syntax theme
+# Atom complementary syntax theme
 
 Just my personal theme
+
+![](images/image.png)
